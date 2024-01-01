@@ -1,0 +1,9 @@
+Package: ca.bomberfish.flotsam
+Name: flotsam
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Raise the jetsam priority of a process.
+Maintainer: BomberFish Industries
+Author: BomberFish Industries
+Section: System
+Tag: role::developer
